@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+                <kml xmlns="http://www.opengis.net/kml/2.2"> 
+                <Document> 
+                <Style id="MLDX_Google_Earth"> 
+				<Icon>
+					<href>http://dogparksoftware.com/pics/mldx_kml.png</href>
+				</Icon>
+                </Style>
+                <Folder>
+				<name>KK6ZTP's LOG</name>
+				<description>MacLoggerDX Log in Google Earth</description>
+			<Placemark>
+				<name>K6SRZ</name>
+				<Point><coordinates>-122.669998,38.292000,0</coordinates></Point>
+				<description><![CDATA[Worked: 2017-12-30 23:46:10 +0000<br>Frequency: 7.19000 MHz<br>DXCC: United States<br>Name: Alan]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>KK6NON</name>
+				<Point><coordinates>-117.229000,33.196900,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-07-25 03:49:00 +0000<br>Frequency: 7.18100 MHz<br>DXCC: United States<br>Name: Levy]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>K5FD</name>
+				<Point><coordinates>-95.542600,30.209800,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-06-26 06:55:15 +0000<br>Frequency: 7.20200 MHz<br>DXCC: United States<br>Name:  ]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>W0KEN</name>
+				<Point><coordinates>-94.793300,37.645000,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-06-26 06:50:15 +0000<br>Frequency: 7.29150 MHz<br>DXCC: United States<br>Name:  ]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>N0SWE</name>
+				<Point><coordinates>-105.127000,39.770000,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-06-26 06:05:15 +0000<br>Frequency: 7.24000 MHz<br>DXCC: United States<br>Name:  ]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>K0IIT</name>
+				<Point><coordinates>-104.870000,39.703500,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-06-26 05:43:15 +0000<br>Frequency: 7.22000 MHz<br>DXCC: United States<br>Name:  ]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>K6TZ</name>
+				<Point><coordinates>-120.387000,37.989700,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-06-25 21:15:30 +0000<br>Frequency: 14.32500 MHz<br>DXCC: United States<br>Name:  ]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>W7RET</name>
+				<Point><coordinates>-122.872000,45.455300,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-06-25 20:43:15 +0000<br>Frequency: 14.26100 MHz<br>DXCC: United States<br>Name:  ]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>K7ADD</name>
+				<Point><coordinates>-121.941000,47.743500,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-06-23 02:14:15 +0000<br>Frequency: 7.25500 MHz<br>DXCC: United States<br>Name:  ]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>KD7RCJ</name>
+				<Point><coordinates>-111.528000,35.253200,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-06-19 18:39:15 +0000<br>Frequency: 14.25700 MHz<br>DXCC: United States<br>Name:  ]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>K5XK</name>
+				<Point><coordinates>-94.256767,36.455483,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-05-15 01:19:30 +0000<br>Frequency: 14.27600 MHz<br>DXCC: United States<br>Name: Ronald]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>W9IMS</name>
+				<Point><coordinates>-86.109150,39.866750,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-05-15 00:58:30 +0000<br>Frequency: 14.30400 MHz<br>DXCC: United States<br>Name: John]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>KF6ILA/M</name>
+				<Point><coordinates>-116.573817,33.061517,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-05-15 00:16:30 +0000<br>Frequency: 7.29300 MHz<br>DXCC: United States<br>Name: Duncan]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>K7L</name>
+				<Point><coordinates>-114.655617,32.687750,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-05-07 18:41:15 +0000<br>Frequency: 14.24150 MHz<br>DXCC: United States<br>Name: David]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>KD7RCJ</name>
+				<Point><coordinates>-111.527633,35.253200,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-04-30 21:45:00 +0000<br>Frequency: 14.24400 MHz<br>DXCC: United States<br>Name: John]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>KN5TX</name>
+				<Point><coordinates>0.000000,0.000000,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-03-27 12:12:57 +0000<br>Frequency: 21.37200 MHz<br>DXCC: United States<br>Name: Sandra]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>KK5I</name>
+				<Point><coordinates>0.000000,0.000000,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-03-27 12:10:57 +0000<br>Frequency: 21.37200 MHz<br>DXCC: United States<br>Name: Muskogee]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>KH6J</name>
+				<Point><coordinates>0.000000,0.000000,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-03-27 12:08:57 +0000<br>Frequency: 21.36600 MHz<br>DXCC: Hawaii<br>Name: Koolau]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>KM5VI</name>
+				<Point><coordinates>0.000000,0.000000,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-03-27 12:07:57 +0000<br>Frequency: 21.34100 MHz<br>DXCC: United States<br>Name: Matthew]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>KT5J</name>
+				<Point><coordinates>0.000000,0.000000,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-03-27 12:06:57 +0000<br>Frequency: 21.30200 MHz<br>DXCC: United States<br>Name: Contest]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>K5ZQ</name>
+				<Point><coordinates>0.000000,0.000000,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-03-27 11:53:57 +0000<br>Frequency: 21.37900 MHz<br>DXCC: United States<br>Name: Bill]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>NR5M</name>
+				<Point><coordinates>0.000000,0.000000,0</coordinates></Point>
+				<description><![CDATA[Worked: 2016-03-27 11:45:57 +0000<br>Frequency: 21.29500 MHz<br>DXCC: United States<br>Name: George]]></description>
+				<styleUrl>#MLDX_Google_Earth</styleUrl>
+			</Placemark>
+                    </Folder>
+                    </Document>
+                    </kml>
